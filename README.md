@@ -5,3 +5,4 @@
 - CENG241 Object Oriented Programming
 - CENG236 Numerical Analysis
 - CENG218 Data Structures
+- CENG222 Computer Organization
