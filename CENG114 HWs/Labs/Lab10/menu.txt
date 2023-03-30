@@ -1,0 +1,10 @@
+Latte drink 5.5
+Lemonade drink 2.0
+Cheesecake dessert 5.0
+Croissant dessert 2.5
+Tea drink 1.5
+Water drink 0.5
+Cupcake dessert 4.5
+Coffee drink 4.0
+Doughnut dessert 3.0
+Brownie drink 3.5
